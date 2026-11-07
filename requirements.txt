@@ -2,6 +2,6 @@ fastapi
 uvicorn
 aiohttp
 aiofiles
-tensorflow
+tensorflow-cpu==2.15.1
 tensorflow-hub
 pillow
